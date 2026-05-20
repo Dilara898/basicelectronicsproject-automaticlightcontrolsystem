@@ -51,7 +51,7 @@ The main goal of this project is energy saving and automation. The project demon
 | Potentiometer | 10kΩ |
 | Resistor R1 | 1kΩ |
 | LED | Purple LED |
-| Battery | 12V |
+| Battery | 5V |
 | Lamp | 230V AC Lamp |
 
 ---
