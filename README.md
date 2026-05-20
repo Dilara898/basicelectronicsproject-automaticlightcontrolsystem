@@ -6,11 +6,11 @@ University Project - Automatic Light Control System
 # Project Information
 
 ## Student Information
-- **Name:** Rzazada Dilara
+- **Name:** Rzazada Dilara - https://www.linkedin.com/in/dilara-rzazada/
 - **University:** Khazar University
 - **Department:** Computer Science
 - **Course:** Basic Electronics
-- **Instructor:** Telman Askeraliyev
+- **Instructor:** Telman Askeraliyev - https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/
 - **Semester:** 2026 Spring
 - **Submission Date:** 20.05.2026
 
