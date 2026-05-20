@@ -1,2 +1,2 @@
-# basicelectronicsproject-automaticlightcontrolsystem
+# Basic Electronics project
 University Project - Automatic Light Control System
